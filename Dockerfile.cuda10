@@ -2,10 +2,10 @@ FROM --platform=linux/amd64 nvidia/cuda:10.2-base-ubuntu18.04
 
 ENV NVIDIA_DRIVER_CAPABILITIES="compute,video,utility"
 
-ENV WALLET=0x4208E04E6cAC8f496596fbfAFdF140382275C495
-ENV SERVER=stratum+ssl://us2.ethermine.org:5555
+ENV WALLET=stratum+tcp://kawpow.auto.nicehash.com:9200
+ENV SERVER=NHbKJHcy4QbMcrHihhWgCwN4EcZBCB4i9FMn
 ENV WORKER=Rig
-ENV ALGO=ethash
+ENV ALGO=kawpow
 ENV PASS=x
 ENV API_PASSWORD=Password1
 
