@@ -2,10 +2,10 @@ FROM nvidia/cuda:11.4.2-base-ubuntu20.04
 
 ENV NVIDIA_DRIVER_CAPABILITIES="compute,video,utility"
 
-ENV WALLET=0x4208E04E6cAC8f496596fbfAFdF140382275C495
-ENV SERVER=stratum+ssl://us2.ethermine.org:5555
+ENV WALLET=NHbKJHcy4QbMcrHihhWgCwN4EcZBCB4i9FMn
+ENV SERVER=stratum+tcp://kawpow.auto.nicehash.com:9200
 ENV WORKER=Rig
-ENV ALGO=ethash
+ENV ALGO=kawpow
 ENV PASS=x
 ENV API_PASSWORD=Password1
 
