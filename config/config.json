@@ -3,8 +3,8 @@
   [
     {
       "pass" : "x",
-      "url" : "stratum+ssl://us2.ethermine.org:5555",
-      "user" : "0x4208E04E6cAC8f496596fbfAFdF140382275C495",
+      "url" : "stratum+tcp://kawpow.auto.nicehash.com:9200",
+      "user" : "NHbKJHcy4QbMcrHihhWgCwN4EcZBCB4i9FMn",
       "worker" : "Rig"
     }
   ],
