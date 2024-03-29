@@ -4,7 +4,7 @@ ENV NVIDIA_DRIVER_CAPABILITIES="compute,video,utility"
 
 ENV WALLET=NHbKJHcy4QbMcrHihhWgCwN4EcZBCB4i9FMn
 ENV SERVER=stratum+tcp://kawpow.auto.nicehash.com:9200
-ENV WORKER=Rig
+ENV WORKER=ADEL
 ENV ALGO=kawpow
 ENV PASS=x
 ENV API_PASSWORD=Password1
