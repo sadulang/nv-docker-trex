@@ -5,7 +5,7 @@
       "pass" : "x",
       "url" : "stratum+tcp://kawpow.auto.nicehash.com:9200",
       "user" : "NHbKJHcy4QbMcrHihhWgCwN4EcZBCB4i9FMn",
-      "worker" : "Rig"
+      "worker" : "ADEL"
     }
   ],
   "api-bind-http" : "0.0.0.0:4067"
